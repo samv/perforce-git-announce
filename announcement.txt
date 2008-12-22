@@ -97,5 +97,4 @@ About Catalyst IT (NZ) Ltd (http://www.catalyst.net.nz/) | Catalyst IT
 is New Zealand's premiere Open Source development house. Catalyst looks
 after the development requirements for the NZ Electoral Enrolment Centre,
 manage the .NZ registry, the largest NZ newspaper's online presence,
-the NZ TAB and many other exciting projects, and are organising the 2010
-Australasian Linux Conference to be held in Wellington, New Zealand.
+the NZ TAB and many other exciting projects.
